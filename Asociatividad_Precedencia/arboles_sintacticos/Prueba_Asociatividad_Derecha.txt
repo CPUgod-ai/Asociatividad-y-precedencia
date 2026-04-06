@@ -1,0 +1,5 @@
+operador_der
+  identificador
+  operador_der
+    identificador
+    identificador
