@@ -112,7 +112,7 @@ main.py
 
 También contiene la clase `ConvertidorArbol`, que transforma el árbol interno de Lark en un árbol más limpio y fácil de visualizar.
 
-## visualizador_arbol.py
+## ast.utils.py
 
 Este archivo contiene la parte gráfica del proyecto. Se encarga de:
 
@@ -124,8 +124,7 @@ Este archivo contiene la parte gráfica del proyecto. Se encarga de:
 
 *   **Guardar el árbol como imagen .png.**
 
-> **Nota:** Gracias a este archivo no fue necesario usar Graphviz.
-
+> 
 ---
 
 ## Objetivo del taller
