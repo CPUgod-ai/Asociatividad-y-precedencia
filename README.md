@@ -17,7 +17,7 @@ El programa analiza varias cadenas de prueba y genera automaticamente:
 
 ---
 
-## Estructura del proyecto
+## Estructura del taller
 
 Todos los archivos deben estar en la misma carpeta para que el programa funcione correctamente.
 
